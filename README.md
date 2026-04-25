@@ -32,7 +32,7 @@ Desenvolver dashboards analíticos para simular cenários reais de negócio, apl
 
 ### Preview
 
-![Dashboard RH](dashboards/dashboard_rh.png)
+![Dashboard RH](dashboards/dashboard_rh.PNG)
 
 ---
 
@@ -58,7 +58,7 @@ Foram inseridas inconsistências propositalmente para simular cenários reais de
 
 ### Preview
 
-![Dashboard QA](dashboards/dashboard_qa.png)
+![Dashboard QA](dashboards/dashboard_qa.PNG)
 
 ---
 
@@ -68,6 +68,7 @@ Foram inseridas inconsistências propositalmente para simular cenários reais de
 - DAX
 - Modelagem Relacional
 - Excel / CSV
+- Figma (prototipação e design do dashboard)
 
 ---
 
@@ -92,5 +93,5 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 
 ## Autor
 
-Heloísa Sousa  
-[LinkedIn](SEU_LINK_AQUI)
+Heloísa de Araujo Sousa  
+[LinkedIn](linkedin.com/in/heloísa-de-araujo-sousa-25455b26b/)
