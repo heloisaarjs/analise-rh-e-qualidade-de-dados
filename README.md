@@ -32,7 +32,7 @@ Desenvolver dashboards analíticos para simular cenários reais de negócio, apl
 
 ### Preview
 
-![Dashboard RH](dashboards/dashboard-rh.png)
+![Dashboard RH](dashboards/dashboard_rh.png)
 
 ---
 
@@ -58,7 +58,7 @@ Foram inseridas inconsistências propositalmente para simular cenários reais de
 
 ### Preview
 
-![Dashboard QA](dashboards/dashboard-qa.png)
+![Dashboard QA](dashboards/dashboard_qa.png)
 
 ---
 
